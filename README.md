@@ -6,7 +6,7 @@ Welcome to the Deep Learning Research and Learning Repository! 🚀 This reposit
 - Community Collaboration: Connect with like-minded individuals, share your insights, and collaborate on projects. This repository aims to foster a supportive and collaborative community where learners and researchers can exchange ideas and expertise.
 
 ## Python Version
-This repository is developed and maintained with compatibility for Python 3.12.x. Ensure that you have the appropriate Python version installed on your system before diving into the projects and code samples.
+This repository is developed and maintained with compatibility for Python 3.12.x and pip 23.3.x. Ensure that you have the appropriate Python version installed on your system before diving into the projects and code samples.
 
 ## How to Get Started
 Clone the repository to your local machine.
